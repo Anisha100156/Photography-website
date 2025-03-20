@@ -15,5 +15,7 @@ This project showcases a sleek and modern user interface with a **sidebar naviga
 # Technologies Used  
 - **HTML5** – Structuring the website content.  
 - **CSS3** – Styling and designing a smooth user interface.  
-- **JavaScript** – Adding interactivity and enhancing user experience.  
+- **JavaScript** – Adding interactivity and enhancing user experience.
+
+# Preview
 ![Photography Website](preview.png)
